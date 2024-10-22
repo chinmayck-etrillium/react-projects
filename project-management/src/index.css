@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-pane {
+    margin-top: 20%;
+    width: 30%;
+ 
+}
+
+.right-pane {
+    width: 100%;
+
+}
